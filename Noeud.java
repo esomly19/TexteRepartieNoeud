@@ -18,6 +18,8 @@ public static void main (String [] args) throws RemoteException, NotBoundExcepti
 	
 	
 	rd.enregistrerNoeud(st);
+	System.out.println("Noeud connecter aux serveur");	
+	
 
 }
 }
